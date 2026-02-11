@@ -1,0 +1,1 @@
+A multi-modal recommendation system leverages multiple types of data (e.g., text, image, and user interaction data) to provide personalized recommendations. In this project, we simulate a recommendation system that uses user preferences (text reviews) and product images to suggest items to a user.
